@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+numpy
+scipy
+python-dotenv
+streamlit-autorefresh
+statsmodels
